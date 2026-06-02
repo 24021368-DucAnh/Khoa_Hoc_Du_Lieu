@@ -96,4 +96,4 @@ Vai trò: Data Scientist & ML Engineer
 
 Nhiệm vụ: Hypothesis Testing, A/B Testing, Bootstrapping, Simple/Multiple Regression, k-NN Classification.
 
-Cảm ơn Thầy đã theo dõi và đánh giá đồ án của nhóm!
+Cảm ơn Thầy đã theo dõi và đánh giá đề tài nghiên cứu của nhóm!
